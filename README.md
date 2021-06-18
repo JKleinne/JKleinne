@@ -1,5 +1,5 @@
 ### Hi I'm Jonnie Klein 👋
-I'm a Software Engineering student passionate about cryptography and blockchain technologies. 
+A Software Engineering student passionate about cryptography and blockchain technologies. 
 
 ⚡ **Work experience:** <br>
 - _[Internship]_ Java/C++ Software Engineer at **Canadian Space Agency (CSA/ASC)**. _[Montreal, Canada. Winter 2021]_
