@@ -8,8 +8,8 @@ A Software Engineering student passionate about cryptography and blockchain tech
 - _[Internship]_ Node.js Backend Developer at **coinsave.io** (a cryptocurrency exchange). _[Montreal, Canada. Summer 2018]_
 
 📚 **Tech Stack**
-- Languages: JavaScript/TypeScript, ReactJS, Solidity, Java, C++, Haskell
-- Frameworks: NodeJS/ExpressJS, MochaJS/SinonJS, Spring Boot, Plutus
+- Languages: JavaScript/TypeScript, ReactJS, Redux, Solidity, Java, C++, Haskell
+- Frameworks: NodeJS/ExpressJS, MochaJS/SinonJS, Spring Boot
 - Tools: Git, Jetbrains Suite, Truffle, Ganache
 - OS: Manjaro/Arch Linux, macOS
 
