@@ -1,5 +1,5 @@
 ### Hi I'm Jonnie Klein 👋
-A university student studying Software Engineering and passionate about cryptography and blockchain technologies. 
+A university student studying Software Engineering. 
 
 ⚡ **Work experience:** <br>
 - _[Internship]_ Java/C++ Software Engineer at **Canadian Space Agency (CSA/ASC)**. _[Montreal, Canada. Winter 2021]_
@@ -10,8 +10,8 @@ A university student studying Software Engineering and passionate about cryptogr
 - **CipherPact**. Decentralized, trustless and publicly verifiable suite of financial agreements on Ergo and Cardano 
 
 🌱 **Interests:**
-- Blockchain
-- Cryptography
+- Traveling
+- Reading
 - Gaming
 
 📜 **Curriculum Vitae:**
