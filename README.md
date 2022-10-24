@@ -7,7 +7,7 @@ A university student studying Software Engineering.
 - _[Internship]_ Node.js Backend Developer at **coinsave.io**. _[Montreal, Canada. Summer 2018]_
 
 🔭 **Current project:**
-- **CipherPact**. Decentralized, trustless and publicly verifiable suite of financial agreements on Ergo and Cardano 
+- 
 
 🌱 **Interests:**
 - Traveling
