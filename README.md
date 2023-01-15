@@ -12,10 +12,6 @@ A university student studying Software Engineering.
 🌱 **Interests:**
 - Traveling
 - Reading
-- Football Tactics (Cruyff/Guardiola/Ten Hag)
-
-📜 **Curriculum Vitae:**
-- [Gist](https://gist.github.com/JKleinne/c56e9906bd509c3af0200f778343428b) (.pdf version)
 
 💬 [jkleinne@proton.me](mailto:jkleinne@proton.me) | www.linkedin.com/in/jkleinne
 
