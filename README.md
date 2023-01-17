@@ -7,7 +7,7 @@ A university student studying Software Engineering.
 - _[Internship]_ Node.js Backend Developer at **coinsave.io**. _[Montreal, Canada. Summer 2018]_
 
 🔭 **Current project:**
-- 
+- Working on the [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) certification
 
 🌱 **Interests:**
 - Traveling
