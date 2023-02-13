@@ -1,5 +1,5 @@
-### Hi I'm Jonnie Klein 👋
-A university student studying Software Engineering. I specialize in all things cloud-related, from designing cloud solution architectures to broad technical knowledge of distributed systems and cloud computing.
+### Hi, I'm Jonnie Klein 👋
+A university student studying Software Engineering
 
 ⚡ **Work experience:** <br>
 - _[Full-Time]_ 
