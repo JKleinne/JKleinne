@@ -1,5 +1,5 @@
 ### Hi, I'm Jonnie Klein 👋
-A university student studying Software Engineering
+Cloud Engineer
 
 ⚡ **Work experience:** <br>
 - _[Full-Time]_ 
@@ -9,7 +9,10 @@ Developer Analyst I - Serverless & Databases, Google Cloud at **Telus**. _[Montr
 - _[Internship]_ Node.js Backend Developer at **coinsave.io**. _[Montreal, Canada. Summer 2018]_
 
 🔭 **Current project:**
-- Working on the [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) certification
+- Working on the [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) certification
+
+📜 **Certifications**
+- [Associate Cloud Engineer](https://www.credential.net/b196b8fb-494a-4833-aefd-209504356301#gs.scqzfl)
 
 🌱 **Interests:**
 - Traveling
