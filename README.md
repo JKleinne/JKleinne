@@ -14,7 +14,7 @@ Developer Analyst II - Serverless & Databases, Google Cloud at **Telus**. _[Mont
 📜 **Certifications**
 - [Associate Cloud Engineer](https://www.credential.net/b196b8fb-494a-4833-aefd-209504356301#gs.scqzfl)
 
-💬 [jkleinne@proton.me](mailto:jkleinne@proton.me)
+💬 [jkleinne@pm.me](mailto:jkleinne@pm.me)
 
 🔑 **PGP/GPG Fingerprint:** `DE3A BDC5 4595 3432 D05A EF08 AC68 20F2 EC15 48E3`
 
