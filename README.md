@@ -16,7 +16,7 @@ Cloud Engineer - Serverless & Databases, Google Cloud at **Telus**. _[Montreal, 
 
 💬 [jkleinne@pm.me](mailto:jkleinne@pm.me)
 
-🔑 **PGP/GPG Fingerprint:** `DE3A BDC5 4595 3432 D05A EF08 AC68 20F2 EC15 48E3`
+🔑 **PGP/GPG Fingerprint:** `D1FC C9CE C846 9868 1E28  CF21 EA5F 6DE2 6CFA B3C2`
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkleinne&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
