@@ -14,7 +14,7 @@ Cloud Engineer - Serverless & Databases, Google Cloud at **Telus**. _[Montreal, 
 📜 **Certifications**
 - [Associate Cloud Engineer](https://www.credential.net/b196b8fb-494a-4833-aefd-209504356301#gs.scqzfl)
 
-💬 [jkleinne@pm.me](mailto:jkleinne@pm.me)
+💬 [jkq@jkleinne.com](mailto:jkq@jkleinne.com)
 
 🔑 **PGP/GPG Fingerprint:** `D1FC C9CE C846 9868 1E28  CF21 EA5F 6DE2 6CFA B3C2`
 
